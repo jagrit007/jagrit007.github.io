@@ -1,0 +1,158 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+}
+
+#title {
+  background-color: #FF4C68
+}
+
+.hero-heading {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 900;
+  font-size: 3.5rem;
+  line-height: 1.5;
+  color: #fff;
+}
+
+.container-fluid {
+  padding: 3% 15%;
+}
+
+.navbar-brand {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.navbar {
+  padding: 0 0 4.5rem 0;
+}
+
+.nav-item {
+  padding: 0 18px 0 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+}
+
+.dlbtn {
+  margin: 5% 3% 5% 0%;
+}
+
+.hero-img {
+  width: 20%;
+  position: absolute;
+  transform: rotate(25deg);
+  right: 25%;
+}
+
+#features {
+  /* z-index: 1; */
+  background-color: white;
+  position: relative;
+  padding: 7%;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 900;
+  font-size: 1.5rem;
+}
+
+p {
+  color: #8f8f8f;
+}
+
+.one-feature {
+  text-align: center;
+  /* padding: 5%; */
+}
+
+.feature-icon {
+  color: #EF8172;
+  /* padding: 8%; */
+  margin-bottom: 1rem;
+}
+
+.feature-icon:hover {
+  color: #FF4C68;
+
+}
+
+
+#testimonials {
+  text-align: center;
+  background-color: #EF8172;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  line-height: 1.5;
+  font-weight: bold;
+  font-size: 3rem;
+}
+
+#testimonials h2 {
+  color: #fff;
+}
+
+#testimonials em {
+  color: #fff;
+}
+
+.testimonial-img {
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+#press {
+  background-color: #EF8172;
+  text-align: center;
+  padding-top: 2%;
+  padding-bottom: 3%;
+}
+
+.press-img {
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+
+.carousel-item {
+  padding: 7% 15%;
+}
+
+#pricing {
+  padding: 100px;
+  text-align: center;
+}
+
+#cta {
+  padding: 5%;
+  background-color: #FF4C68;
+  text-align: center;
+}
+
+#cta h3 {
+  font-size: 4rem;
+  color: #fff;
+}
+
+#footer {
+  margin: 7%;
+  text-align: center;
+}
+
+.social-icons {
+  padding: 10px;
+}
+
+.social-icon {
+  padding: 10px;
+}
+
+

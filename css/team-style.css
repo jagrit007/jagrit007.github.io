@@ -1,0 +1,172 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+  }
+  
+  
+  body{
+    background-color: #FF4C68;
+  }
+  
+
+/* .bg-pat {
+  background-image: url("../images/paw-pattern.jpg");
+  background-position: center;
+  background-repeat:repeat;
+  background-size: 20%;
+} */
+
+  .hero-heading {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    font-size: 3.5rem;
+    line-height: 1.5;
+    color: #fff;
+  }
+  
+  .container-fluid {
+    padding: 0 15%;
+  }
+  
+  .navbar-brand {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 2.5rem;
+    font-weight: bold;
+  }
+  
+  /* .navbar {
+    padding: 0 0 4.5rem 0;
+  } */
+  
+  .nav-item {
+    padding: 0 18px 0 18px;
+  }
+  
+  .nav-link {
+    font-size: 1.2rem;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+  }
+
+
+  h3 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    font-size: 1.5rem;
+  }
+  
+
+  
+  .one-feature {
+    text-align: center;
+    /* padding: 5%; */
+  }
+  
+  
+  
+  h2 {
+    font-family: 'Montserrat', sans-serif;
+    line-height: 1.5;
+    font-weight: bold;
+    font-size: 3rem;
+  }
+  
+  #testimonials h2 {
+    color: #fff;
+  }
+  
+  #testimonials em {
+    color: #fff;
+  }
+
+  #footer {
+    margin: 7%;
+    text-align: center;
+  }
+  
+  .social-icons {
+    padding: 10px;
+  }
+  
+  .social-icon {
+    padding: 10px;
+  }
+  
+
+.wrapper{
+    margin-top: 60px;
+    text-align: center;
+  }
+
+  .team_member {
+    -webkit-box-shadow: 0 0px 20px 0 rgba(0, 0, 0, 0.2);
+    box-shadow: 0 0px 20px 0 rgba(0, 0, 0, 0.2);
+}
+
+
+  .wrapper h1{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 48px;
+    color: #fff;
+    margin-bottom: 25px;
+  }
+
+  .our_team{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+
+  .our_team .team_member{
+    text-align: center;
+    width: 300px;
+    margin: 15px;
+    background: #fff;
+    padding: 20px 10px;
+  }
+
+  .our_team .team_member .member_img{
+    background: #e9e5fa;  
+    max-width: 190px;
+    width: 100%;
+    height: 190px;
+    margin: 0 auto;
+    border-radius: 50%;
+    padding: 5px;
+    position: relative;
+  }
+
+  .our_team .team_member .member_img img{
+    width: 100%;
+    height: 100%;
+  }
+
+  .our_team .team_member h3{
+    text-transform: uppercase;
+    font-size: 18px;
+    line-height: 18px;
+    letter-spacing: 2px;
+    margin: 15px 0 0px;
+  }
+
+  .our_team .team_member span{
+    font-size: 10px;
+  }
+
+  .our_team .team_member .member_img .social_media{
+
+    display: none;
+  }
+
+  /* .our_team .team_member .member_img .social_media .item{
+    margin: 0 10px;
+  } */
+
+  /* .our_team .team_member .member_img .social_media .fab{
+    color: #8c7ae6;
+    font-size: 20px;
+  } */
+/* 
+  .our_team .team_member .member_img:hover .social_media{
+    transform: scale(1);
+  } */
