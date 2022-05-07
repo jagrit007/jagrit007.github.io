@@ -100,7 +100,7 @@ body {
 
   .team_member {
     -webkit-box-shadow: 0 0px 20px 0 rgba(0, 0, 0, 0.2);
-    box-shadow: 0 0px 20px 0 rgba(0, 0, 0, 0.2);
+    box-shadow: 0 0px 20px 0 rgba(0, 0, 0, 0.4);
 }
 
 
@@ -152,21 +152,3 @@ body {
   .our_team .team_member span{
     font-size: 10px;
   }
-
-  .our_team .team_member .member_img .social_media{
-
-    display: none;
-  }
-
-  /* .our_team .team_member .member_img .social_media .item{
-    margin: 0 10px;
-  } */
-
-  /* .our_team .team_member .member_img .social_media .fab{
-    color: #8c7ae6;
-    font-size: 20px;
-  } */
-/* 
-  .our_team .team_member .member_img:hover .social_media{
-    transform: scale(1);
-  } */

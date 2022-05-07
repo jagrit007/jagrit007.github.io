@@ -12,14 +12,6 @@ body {
     background-color: #FF4C68;
   }
   
-  .hero-heading {
-    font-family: 'Montserrat', sans-serif;
-    font-weight: 900;
-    font-size: 3.5rem;
-    line-height: 1.5;
-    color: #fff;
-  }
-  
   .container-fluid {
     padding: 0 15%;
   }
@@ -50,10 +42,7 @@ body {
     font-weight: 900;
     font-size: 1.5rem;
   }
-  
 
-  
-  
   h2 {
     font-family: 'Montserrat', sans-serif;
     line-height: 1.5;
@@ -61,31 +50,10 @@ body {
     font-size: 3rem;
   }
 
-  #footer {
-    margin: 7%;
-    text-align: center;
-  }
-  
-  .social-icons {
-    padding: 10px;
-  }
-  
-  .social-icon {
-    padding: 10px;
-  }
-
-
-/* .col-md-4 {
-    padding-right: 0;
-} */
-
 .wrapper {
     position: absolute;
     top: 25%;
-    left: 10%;
-    /* right: 10%; */
-    /* margin: 0 0 0 -468px; */
-    /* margin-top: -10%; */
+    left: 20%;
     font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     color: #9f9f9f;
@@ -104,19 +72,12 @@ body {
     padding: 24px;
     text-align: center;
     float: left;
-    transition: margin-top 0.5s linear;
     position: relative;
     margin-right: 11px;
     cursor: pointer;
 
 }
-.package :active {
-border-color: #FF4C68;
-}
-/* .package:hover {
-    margin-top: -30px;
-    transition: margin-top 0.3s linear;
-} */
+
 .name {
     color: #565656;
     font-weight: 300;
@@ -131,11 +92,7 @@ border-color: #FF4C68;
     content: " / month per user";
     font-weight: normal;
 }
-hr {
-    background-color: #dedede;
-    border: none;
-    height: 1px;
-}
+
 .trial {
     font-size: 0.9rem;
     font-weight: 600;
@@ -169,22 +126,3 @@ hr {
 .brilliant {
     border-color: #FF4C68;
 }
-/* .brilliant::before {
-    width: 0;
-    height: 0;
-    border-style: solid;
-    border-width: 64px 64px 0 0;
-    border-color: #3bc6b8 transparent transparent transparent;
-    position: absolute;
-    left: 0;
-    top: 0;
-    content: "";
-} */
-/* .brilliant::after {
-    color: white;
-    position: absolute;
-    left: 9px;
-    top: 6px;
-    text-shadow: 0 0 2px #37c5b6;
-    font-size: 1.4rem;
-} */
